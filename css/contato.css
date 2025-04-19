@@ -1,0 +1,38 @@
+nav {
+    background-color: aqua;
+    overflow: hidden;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    left: 0;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+body {
+    margin-top: 80px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.contato-box {
+    margin-top: 50px;
+
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    text-align: center;
+    padding: 10px 0;
+}
